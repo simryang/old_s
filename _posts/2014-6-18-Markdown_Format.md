@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Markdown Style Guide
+published: true
 ---
+
 
 This is a demo of all styled elements in Jekyll Now.
 
@@ -35,6 +37,7 @@ Inline markup styles:
 - _italics_
 - **bold**
 - `code()`
+- ~~strikethrough~~
 
 > Blockquote
 >> Nested Blockquote
@@ -54,3 +57,8 @@ Finally, horizontal lines
 
 ----
 ****
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
